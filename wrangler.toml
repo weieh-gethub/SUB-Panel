@@ -1,6 +1,0 @@
-name = "sub-panel"
-compatibility_date = "2025-06-27"
-
-[[kv_namespaces]]
-binding = "kv"
-id = "7f07412332e64baaa88a195cbfec6b6e"
